@@ -54,7 +54,7 @@ const Work = () => {
               <Link
                 href={project.url}
                 target="_blank"
-                className="text-base md:text-2xl font-bold hover:underline"
+                className="text-base text-white md:text-2xl font-bold hover:underline"
               >
                 {project.title}
               </Link>

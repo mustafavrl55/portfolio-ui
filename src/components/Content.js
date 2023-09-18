@@ -36,7 +36,7 @@ const Content = () => {
             className="flex flex-col gap-4 md:flex-row items-center justify-between  mt-12 "
           >
             <a
-              href="https://wa.me/5445147891"
+              href="https://wa.me/5415312699"
               target="_blank"
               className="flex justify-between items-center bg-green-600 rounded-full px-4 py-3"
             >
