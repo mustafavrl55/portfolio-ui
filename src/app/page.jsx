@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 export default function Home() {
   return (
-    <motion.div className="bg-black"
+    <motion.div className="bg-black text-white"
       initial={{ opacity: 0}}
       animate={{ opacity: 1,}}
     >
