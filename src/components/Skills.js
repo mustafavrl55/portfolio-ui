@@ -33,8 +33,8 @@ const Skills = () => {
             <span>SCSS</span>
           </motion.div>
           <motion.div
-           initial={{ opacity: 0, x: 75 }}
-           whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: 75 }}
+            whileInView={{ opacity: 1, x: 0 }}
             className="flex items-center border border-solid rounded-lg border-slate-500 px-8 py-5 w-56"
           >
             <img className="w-8 mr-4" src="/image/tailwind-css.png" alt="" />
@@ -57,16 +57,16 @@ const Skills = () => {
             <span className="">ReactJS</span>
           </motion.div>
           <motion.div
-             initial={{ opacity: 0, x: 75 }}
-             whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: 75 }}
+            whileInView={{ opacity: 1, x: 0 }}
             className="flex items-center border border-solid rounded-lg border-slate-500 px-10 py-4 w-56"
           >
             <img className="w-8 mr-4" src="/image/next.webp" alt="" />
             <span>NextJS</span>
           </motion.div>
           <motion.div
-           initial={{ opacity: 0, x: 75 }}
-           whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: 75 }}
+            whileInView={{ opacity: 1, x: 0 }}
             className="flex items-center border border-solid rounded-lg border-slate-500 px-10 py-4 w-56 "
           >
             <img className="w-8 mr-4" src="/image/git.png" alt="" />

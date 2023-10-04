@@ -54,7 +54,7 @@ const Content = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5 }}
             className="rounded-full w-40 md:w-3/4"
-            src="https://scontent-sof1-2.xx.fbcdn.net/v/t39.30808-6/273271621_5094753473909114_2263354458049346678_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=fhrKGUOWUxgAX-agcdS&_nc_ht=scontent-sof1-2.xx&oh=00_AfDbq3Hh_OCDOyTCOKFKWYa1p6UD_cWGTMBFLVJbRctY3w&oe=6508D594"
+            src="/image/profil.jpg"
             alt=""
           />
         </div>
