@@ -1,6 +1,12 @@
 export const projects = [
   {
-    id: 1,
+    title: "Nike-App",
+    programs: "HTML, CSS, Tailwindcss, JavaScript, React, Next.js ",
+    image: "/image/nike.jpg",
+    url: "https://elaborate-nasturtium-5ed05f.netlify.app/",
+    bg: "bg-slate-700"
+  },
+  {
     title: "Splashify-App",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/splashify.jpg",
@@ -8,7 +14,6 @@ export const projects = [
     bg: "bg-slate-700"
   },
   {
-    id: 2,
     title: "Hepsiburada-App",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/hepsiburada.jpg",
@@ -16,7 +21,6 @@ export const projects = [
     bg: "bg-blue-200"
   },
   {
-    id: 3,
     title: "Game-List",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/game.jpg",
@@ -24,7 +28,6 @@ export const projects = [
     bg: "bg-green-300"
   },
   {
-    id: 4,
     title: "Weather-App",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/weather.jpg",
@@ -32,7 +35,6 @@ export const projects = [
     bg: "bg-yellow-300"
   },
   {
-    id: 5,
     title: "Pizza-App",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/pizza.jpg",
@@ -40,7 +42,6 @@ export const projects = [
     bg: "bg-slate-700"
   },
   {
-    id: 6,
     title: "Translate-App",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/translate.jpg",
@@ -48,7 +49,6 @@ export const projects = [
     bg: "bg-blue-200"
   },
   {
-    id: 7,
     title: "Food-app",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/food.jpg",
@@ -56,7 +56,6 @@ export const projects = [
     bg: "bg-green-300"
   },
   {
-    id: 8,
     title: "Para-harcama-App",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/paraharcama.jpg",
@@ -64,7 +63,6 @@ export const projects = [
     bg: "bg-yellow-300"
   },
   {
-    id: 9,
     title: "Fake-tweet",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/tweet.jpg",
@@ -72,7 +70,6 @@ export const projects = [
     bg: "bg-blue-200"
   },
   {
-    id: 10,
     title: "Todo-list-with-react",
     programs: "HTML, CSS, SCSS, JavaScript, React",
     image: "/image/todo.jpg",
@@ -80,7 +77,6 @@ export const projects = [
     bg: "bg-slate-700"
   },
   {
-    id: 11,
     title: "Whatsapp-ui",
     programs: "HTML, CSS ",
     image: "/image/whatsapp.jpg",
@@ -88,7 +84,6 @@ export const projects = [
     bg: "bg-blue-200"
   },
   {
-    id: 12,
     title: "Trafalgar-ui",
     programs: "HTML, CSS ",
     image: "/image/trafalgar.jpg",
@@ -96,7 +91,6 @@ export const projects = [
     bg: "bg-green-300"
   },
   {
-    id: 13,
     title: "Grover-ui",
     programs: "HTML, CSS ",
     image: "/image/grover.jpg",
@@ -104,7 +98,6 @@ export const projects = [
     bg: "bg-yellow-300"
   },
   {
-    id: 14,
     title: "Logoipsum-ui",
     programs: "HTML, CSS ",
     image: "/image/logoipsum.jpg",
@@ -112,7 +105,6 @@ export const projects = [
     bg: "bg-slate-700"
   },
   {
-    id: 15,
     title: "Basic-dashboard-ui",
     programs: "HTML, CSS ",
     image: "/image/basit.jpg ",
@@ -120,11 +112,11 @@ export const projects = [
     bg: "bg-blue-200"
   },
   {
-    id: 16,
     title: "Dataware-house-ui",
     programs: "HTML, CSS ",
     image: "/image/dataware.jpg",
     url: "https://poetic-kangaroo-a7d28a.netlify.app/",
     bg: "bg-slate-700"
   },
+  
 ];
