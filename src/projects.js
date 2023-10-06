@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: "WordWiz-App",
+    programs: "HTML, CSS, Tailwindcss, JavaScript, React, Next.js ",
+    image: "/image/wordwiz.jpg",
+    url: "https://classy-hamster-f40176.netlify.app/",
+    bg: "bg-green-300"
+  },
+  {
     title: "Nike-App",
     programs: "HTML, CSS, Tailwindcss, JavaScript, React, Next.js ",
     image: "/image/nike.jpg",
