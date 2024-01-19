@@ -1,5 +1,19 @@
 export const projects = [
   {
+    title: "Game-clup-app",
+    programs: "HTML, CSS, Tailwindcss, JavaScript, React, Next.js ",
+    image: "/image/game-clup.jpg",
+    url: "https://lighthearted-tarsier-36267e.netlify.app/",
+    bg: "bg-slate-700"
+  },
+  {
+    title: "React-budget-app",
+    programs: "HTML, CSS, Tailwindcss, JavaScript, React, Next.js ",
+    image: "/image/budget.jpg",
+    url: "https://teal-sunshine-07197e.netlify.app/",
+    bg: "bg-blue-200"
+  },
+  {
     title: "WordWiz-App",
     programs: "HTML, CSS, Tailwindcss, JavaScript, React, Next.js ",
     image: "/image/wordwiz.jpg",
